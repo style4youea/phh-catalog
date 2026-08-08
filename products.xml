@@ -58,9 +58,9 @@
                 <modifications>
                     <modification>
                         <weight>0.2</weight>
-                        <length>30</length>
-                        <height>41</height>
-                        <width>16</width>
+                        <length>0.3</length>
+                        <height>0.41</height>
+                        <width>0.16</width>
                         <attributes>
                             <barcodes>
                                 <barcode><![CDATA[4752323000255]]></barcode>
